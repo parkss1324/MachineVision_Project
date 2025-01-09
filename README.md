@@ -23,7 +23,7 @@ Visual Studio Code를 활용하여 소스 코드입니다.
 ## 📌 주요 기능
 - mediapipe 라이브러리로 손을 감지하고, numpy 라이브러리로 데이터를 처리합니다.
 - 카메라 기능을 활용하여 영상에 손을 인식시켜, 움직임에 따라 그림이 그려지게 합니다.
-- 'c'를 입력하면 그림이 지워지고, 'q'를 입력하면 영상을 종료합니다.
+- 'c'를 입력하면 그림이 지워지고, 'q'를 입력하면 영상을 종료합니다.
 
 ## ✒️ 머신 비전
 - 머신 비전 개념: https://www.intel.co.kr/content/www/kr/ko/manufacturing/what-is-machine-vision.html
