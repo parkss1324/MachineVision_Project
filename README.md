@@ -9,7 +9,7 @@ Visual Studio Code를 활용하여 소스 코드입니다.
 - 계획 수립
 - mediapipe, numpy 라이브러리 설치
 - 코드 구성
-- openCV 함수 설명 및 사용
+- OpenCV 함수 설명 및 사용
 - 라이브러리 함수 설명 및 사용
 - 포트폴리오 제작
   
