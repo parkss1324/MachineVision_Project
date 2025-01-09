@@ -1,5 +1,5 @@
-# Hand drawing campus
-Visual Studio Code를 활용하여 소스 코드입니다.
+# Hand drawing campus
+Visual Studio Code와 OpenCV를 활용하여 손으로 그림을 그릴 수 있습니다.
 
 ## 👨‍🏫 프로젝트 소개
 카메라 영상에서 손의 움직임을 파악, 위치에 따라 그림이 그려지게 합니다.
